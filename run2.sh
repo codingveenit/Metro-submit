@@ -1,0 +1,1 @@
+python3 src/decode.py "$1" "$1.satoutput" "$1.metromap"

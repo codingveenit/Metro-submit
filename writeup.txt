@@ -1,0 +1,4 @@
+2
+Even though I/we have taken help from the following students and LLMs in terms of discussing ideas and coding practices, all my/our code is written by me/us.
+Perplexity, ChatGPT, Gemini
+This submission includes a Python-based SAT formulation and solver interface for the metro map planning problem.
